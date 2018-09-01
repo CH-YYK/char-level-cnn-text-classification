@@ -122,3 +122,6 @@ class Training(data_tool, CharCNN):
 
                 # save result to file
                 self.save_data(self.result)
+
+if __name__ == '__main__':
+    Training()
