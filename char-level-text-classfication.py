@@ -21,7 +21,6 @@ conv_config = [[7, 256, 3],
 fc_config = [1024, 1024]
 
 
-
 class data_tool(object):
 
     def __init__(self, train_path, test_path, truncated_length):
