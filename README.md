@@ -7,6 +7,8 @@ Run following commands:
 $ python train.py
 ```
 
+If you'd like to customize the parameters, edit lines in `train.py`.
+
 ## Results:
 ![accuracy](images/fig_accuracy.png)
 
